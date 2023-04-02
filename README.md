@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreapetkova
 - 👀 I’m interested in Web Development, Web UX/UI and experimenting with new technologies.  
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning Web Components.
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 How to reach me https://www.linkedin.com/in/andrea-petkova-53b701138/
 
